@@ -1,11 +1,8 @@
 ## Hi there 👋
 
-My name is Alma. I am a passionate full-stack developer with over 3 years of experience in QA and automation as an SDET. I have a solid foundation in JavaScript, Node.js, and React.js, with a strong focus on creating scalable web applications and developing APIs. I enjoy tackling complex challenges and am always eager to learn and improve.
+My name is Alma. I am a passionate full-stack developer with over 3 years of experience in QA and automation as an SDET. I have a solid foundation in JavaScript, Node.js, and React.js, with a strong focus on creating scalable web applications and developing APIs. I enjoy tackling complex challenges and am always eager to learn and improve. My Linkedin: https://www.linkedin.com/in/almanursultan
 
 ## 📫 Contact Me
-
-[LinkedIn](https://www.linkedin.com/in/almanursultan)
-
 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=almanursultan02@gmail.com)
 
