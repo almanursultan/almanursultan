@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on my Capstone project, "The Bookmark".
-- 🌱 I’m currently learning about full-stack development and improving my skills with React and MySQL.
-- 👯 I’m looking to collaborate on open-source projects or anything related to web development.
-- 🤔 I’m looking for help with advanced React concepts and optimization techniques.
-- 💬 Ask me about software engineering, project management, or my experience with bootcamps.
-- 📫 How to reach me: (https://www.linkedin.com/in/almanursultan)
+My name is Alma. I am a passionate full-stack developer with over 3 years of experience in QA and automation as an SDET. I have a solid foundation in JavaScript, Node.js, and React.js, with a strong focus on creating scalable web applications and developing APIs. I enjoy tackling complex challenges and am always eager to learn and improve.
+
+## 📫 Contact Me
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/almanursultan)
+- [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 
 ### My Tech Stack
@@ -19,10 +19,12 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2300D1F2?style=flat&logo=react&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300A4B1?style=flat&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-%23F7B900?style=flat&logo=junit&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-%23E4A01B?style=flat&logo=selenium&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-%23E4E100?style=flat&logo=cucumber&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%23005B99?style=flat&logo=jira&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-%2361DAFB.svg?style=flat&logo=cucumber&logoColor=black)
 
 
